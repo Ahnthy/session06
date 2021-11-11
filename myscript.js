@@ -1,3 +1,3 @@
 function displayMessage(){
-    document.getElementById("message-box").innerHTML += "Hello GitHub!<br/>";
+    document.getElementById("message-box").innerHTML += "Welcome to GitHub!<br/>";
 }
